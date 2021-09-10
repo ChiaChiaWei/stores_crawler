@@ -1,1 +1,1 @@
-import approach as ap
+import getPage as gp
